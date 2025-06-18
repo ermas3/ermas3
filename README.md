@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi
+
+Welcome to my portfolio! 
+
+Below are some highlighted projects:
+
+### 🧠 Machine Learning
+- TODO: Data analysis and categorization of mystery dataset with unknown categorical labels.
+
+- TODO: A basic API to design and train neural networks using stochastic gradient descent, implemented from scratch.
+
+### 🧪 Physics & Simulations
+- TODO: Markov Chain Monte Carlo (MCMC) Simulations of the 2D Potts model using the Metropolis algortihm.
+
+- TODO: Traffic Simulation of multi-lane highway using cellular automata.
+
+### ⚙️ Data analysis
+- TODO: An analysis of gender equality within the Swedish labor market using R and Tidyverse.
 
 <!--
 **ermas3/ermas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
