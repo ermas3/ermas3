@@ -7,12 +7,12 @@ Below are some highlighted projects:
 ### 🧠 Machine Learning
 - TODO: Data analysis and categorization of mystery dataset with unknown categorical labels.
 
-- TODO: A basic API to design and train neural networks using stochastic gradient descent, implemented from scratch.
+- [SimpleANN: A basic API to design and train neural networks using stochastic gradient descent, implemented from scratch.](https://github.com/ermas3/Simple-ANN)
 
 ### 🧪 Physics & Simulations
-- TODO: Markov Chain Monte Carlo (MCMC) Simulations of the 2D Potts model using the Metropolis algortihm.
+- Markov Chain Monte Carlo (MCMC) simulations of the 2D Potts model using the Metropolis algortihm.
 
-- TODO: Traffic Simulation of multi-lane highway using cellular automata.
+- Traffic simulation of multi-lane highway using cellular automata.
 
 ### ⚙️ Data analysis
 - TODO: An analysis of gender equality within the Swedish labor market using R and Tidyverse.
