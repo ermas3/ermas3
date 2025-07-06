@@ -12,7 +12,7 @@ Below are some highlighted projects:
 ### 🧪 Physics & Simulations
 - Markov Chain Monte Carlo (MCMC) simulations of the 2D Potts model using the Metropolis algortihm.
 
-- Traffic simulation of multi-lane highway using cellular automata.
+- [Traffic simulation of multi-lane highway using cellular automata.](https://github.com/ermas3/Traffic-Modeling)
 
 ### ⚙️ Data analysis
 - TODO: An analysis of gender equality within the Swedish labor market using R and Tidyverse.
