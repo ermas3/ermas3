@@ -15,7 +15,7 @@ Below are some highlighted projects:
 - [Traffic simulation of multi-lane highway using cellular automata.](https://github.com/ermas3/Traffic-Modeling)
 
 ### ⚙️ Data analysis
-- TODO: An analysis of gender equality within the Swedish labor market using R and Tidyverse.
+- [An analysis of gender equality within the Swedish labor market using R and Tidyverse.](https://github.com/ermas3/Labor-Market-Analysis)
 
 <!--
 **ermas3/ermas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
